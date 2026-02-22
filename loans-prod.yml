@@ -1,0 +1,12 @@
+build:
+  version:
+    "3.0"
+
+loan:
+  message: "Loans PROD"
+  contact:
+    name: "loansprod@gmail.com"
+    email: "loansprod.in"
+  onCallSupport:
+    - (222) 6854 0515
+    - (111) 0985 1213

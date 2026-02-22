@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+account:
+  message: "Environment - PROD"
+  contact:
+    name: "prod@gmail.com"
+    email: "prod.in"
+  onCallSupport:
+    - (222) 6854 0515
+    - (111) 0985 1213

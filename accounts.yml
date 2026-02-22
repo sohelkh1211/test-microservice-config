@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+account:
+  message: "Accounts Default"
+  contact:
+    name: "accounts@gmail.com"
+    email: "accounts.in"
+  onCallSupport:
+    - (222) 6854 0515
+    - (111) 0985 1213

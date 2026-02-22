@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+card:
+  message: "Cards Default - PROD"
+  contact:
+    name: "cardsprod@gmail.com"
+    email: "cardsprod.in"
+  onCallSupport:
+    - (222) 6854 0515
+    - (111) 0985 1213

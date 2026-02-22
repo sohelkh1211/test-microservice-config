@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+account:
+  message: "Environment - QA"
+  contact:
+    name: "qa@gmail.com"
+    email: "qa.in"
+  onCallSupport:
+    - (222) 6854 0515
+    - (111) 0985 1213

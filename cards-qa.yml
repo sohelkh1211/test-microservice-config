@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+card:
+  message: "Cards - QA"
+  contact:
+    name: "cardsqa@gmail.com"
+    email: "cardsqa.in"
+  onCallSupport:
+    - (222) 6854 0515
+    - (111) 0985 1213

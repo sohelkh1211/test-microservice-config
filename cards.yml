@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+  
+card:
+  message: "Cards Default"
+  contact:
+    name: "cards@gmail.com"
+    email: "cards.in"
+  onCallSupport:
+    - (222) 6854 0515
+    - (111) 0985 1213

@@ -1,0 +1,12 @@
+build:
+  version:
+    "1.0"
+
+loan:
+  message: "Loans Default"
+  contact:
+    name: "loans@gmail.com"
+    email: "loans.in"
+  onCallSupport:
+    - (222) 6854 0515
+    - (111) 0985 1213
