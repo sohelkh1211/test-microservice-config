@@ -4,8 +4,8 @@ build:
 card:
   message: "Cards Default - PRODUCTION"
   contact:
-    name: "cardsprod@gmail.com"
-    email: "cardsprod.in"
+    name: "cardsprod.in"
+    email: "cardsprod@gmail.com"
   onCallSupport:
     - (222) 6854 0515
     - (111) 0985 1213
