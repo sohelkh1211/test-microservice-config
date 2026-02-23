@@ -4,7 +4,7 @@ build:
 account:
   message: "Environment - PRODUCTION"
   contact:
-    name: "prod@gmail.com"
+    name: "production@gmail.com"
     email: "prod.in"
   onCallSupport:
     - (222) 6854 0515
