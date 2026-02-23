@@ -3,7 +3,7 @@ build:
     "3.0"
 
 loan:
-  message: "Loans PROD"
+  message: "Loans PRODUCTION"
   contact:
     name: "loansprod@gmail.com"
     email: "loansprod.in"
