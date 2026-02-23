@@ -5,8 +5,8 @@ build:
 loan:
   message: "Loans PRODUCTION"
   contact:
-    name: "loansproduction@gmail.com"
-    email: "loansprod.in"
+    name: "loansprod.in"
+    email: "loansproduction@gmail.com"
   onCallSupport:
     - (222) 6854 0515
     - (111) 0985 1213
