@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 account:
-  message: "Environment - PROD"
+  message: "Environment - PRODUCTION"
   contact:
     name: "prod.in"
     email: "production@gmail.com"
