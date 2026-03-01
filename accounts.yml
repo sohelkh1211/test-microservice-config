@@ -4,8 +4,8 @@ build:
 account:
   message: "Accounts - Default"
   contact:
-    name: "accountsdefault@gmail.com"
-    email: "accounts.in"
+    name: "accounts.in"
+    email: "accountsdefault@gmail.com"
   onCallSupport:
     - (222) 6854 0515
     - (111) 0985 1213
